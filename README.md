@@ -1,2 +1,2 @@
-# cryptopp4android-main
-Compile C++ code into dynamic or static libraries.
+# cryptopp4android
+build cryptopp 8.5 for android
